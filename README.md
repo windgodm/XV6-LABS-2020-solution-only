@@ -15,3 +15,16 @@ file list
     - find.c
     - xargs.c
     - time.txt
+- 2_syscall（Lab: system calls）
+    - Makefile
+    - kernel/defs.h
+    - kernel/kalloc.c
+    - kernel/proc.c
+    - kernel/proc.h
+    - kernel/syscall.c
+    - kernel/syscall.h
+    - kernel/sysinfo.c
+    - kernel/sysproc.c
+    - time.txt
+    - user/user.h
+    - user/usys.pl
