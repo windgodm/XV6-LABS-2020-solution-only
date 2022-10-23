@@ -1,0 +1,3 @@
+Q：解释为什么第三个测试`srcva + len < srcva`在`copyin_new()`中是必需的：给出前两个测试失败的`srcva`和`len`但第三个测试为真的值
+
+A：`len < 0`或`srcva+len`溢出成一个较小的数字（其实是一个意思）；比如`p->sz = 4096`，`srcva=2048, len=(uint64)(-1)`

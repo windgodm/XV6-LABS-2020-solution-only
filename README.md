@@ -28,3 +28,12 @@ file list
     - time.txt
     - user/user.h
     - user/usys.pl
+- 3_pgtbl（Lab: page tables）
+    - answers-pgtbl.txt
+    - kernel/defs.h
+    - kernel/exec.c
+    - kernel/proc.c
+    - kernel/proc.h
+    - kernel/vm.c
+    - kernel/vmcopyin.c
+    - time.txt
