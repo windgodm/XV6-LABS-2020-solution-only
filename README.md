@@ -37,3 +37,18 @@ file list
     - kernel/vm.c
     - kernel/vmcopyin.c
     - time.txt
+- 4_traps（Lab: traps）
+    - Makefile
+    - answers-traps.txt
+    - kernel/defs.h
+    - kernel/printf.c
+    - kernel/proc.c
+    - kernel/proc.h
+    - kernel/riscv.h
+    - kernel/syscall.c
+    - kernel/syscall.h
+    - kernel/sysproc.c
+    - kernel/trap.c
+    - time.txt
+    - user/user.h
+    - user/usys.pl
