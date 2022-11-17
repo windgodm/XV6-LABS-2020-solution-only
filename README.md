@@ -52,3 +52,10 @@ file list
     - time.txt
     - user/user.h
     - user/usys.pl
+- 5_lazy（Lab: xv6 lazy page allocation）
+    - kernel/defs.h
+    - kernel/sysproc.c
+    - kernel/trap.c
+    - kernel/vm.c
+    - time.txt
+
