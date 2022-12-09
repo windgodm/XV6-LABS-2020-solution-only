@@ -58,4 +58,11 @@ file list
     - kernel/trap.c
     - kernel/vm.c
     - time.txt
+- 6_cow（Lab: Copy-on-Write Fork for xv6）
+    - kernel/defs.h
+    - kernel/kalloc.c
+    - kernel/riscv.h
+    - kernel/trap.c
+    - kernel/vm.c
+    - time.txt
 
