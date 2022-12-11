@@ -65,4 +65,10 @@ file list
     - kernel/trap.c
     - kernel/vm.c
     - time.txt
-
+- 7_thread（Lab: Multithreading）
+    - answers-thread.txt
+    - notxv6/barrier.c
+    - notxv6/ph.c
+    - time.txt
+    - user/uthread.c
+    - user/uthread_switch.S
