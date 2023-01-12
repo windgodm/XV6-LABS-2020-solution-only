@@ -78,4 +78,17 @@ file list
     - kernel/buf.h
     - time.txt
     - kernel/bio.c
+- 9_fs（Lab: file system）
+    - Makefile
+    - kernel/fcntl.h
+    - kernel/file.h
+    - kernel/fs.c
+    - kernel/fs.h
+    - kernel/stat.h
+    - kernel/syscall.c
+    - kernel/syscall.h
+    - kernel/sysfile.c
+    - time.txt
+    - user/user.h
+    - user/usys.pl
 
