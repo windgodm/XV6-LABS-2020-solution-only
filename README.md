@@ -72,3 +72,10 @@ file list
     - time.txt
     - user/uthread.c
     - user/uthread_switch.S
+- 8_lock（Lab: locks）
+    - kernel/kalloc.c
+    - kernel/bio.c
+    - kernel/buf.h
+    - time.txt
+    - kernel/bio.c
+
