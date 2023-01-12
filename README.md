@@ -91,4 +91,18 @@ file list
     - time.txt
     - user/user.h
     - user/usys.pl
+- 10_mmap（Lab: mmap）
+    - Makefile
+    - kernel/defs.h
+    - kernel/proc.c
+    - kernel/proc.h
+    - kernel/riscv.h
+    - kernel/syscall.c
+    - kernel/syscall.h
+    - kernel/sysmman.c
+    - kernel/trap.c
+    - kernel/vm.c
+    - time.txt
+    - user/user.h
+    - user/usys.pl
 
